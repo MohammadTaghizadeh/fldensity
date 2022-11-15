@@ -1,6 +1,6 @@
 Package: ldensity
 Type: Package
-Title: What the Package Does (Title Case)
+Title: to help illustrating statistical distributions and comparing them. 
 Version: 0.1.0
 Author: Mohammad Taghizadeh
 Maintainer: The package maintainer <mtaghizadeh@alumni.ut.ac.ir>
