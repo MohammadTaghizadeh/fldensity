@@ -1,7 +1,7 @@
 # ldensity
 ldensity
 
-This package is for illustrating statistical distributions in comparison form.
+This package is for illustrating statistical distributions in a comparison form.
 
 To install the package, try:
 devtools::install_github("MohammadTaghizadeh/ldensity@master")  
