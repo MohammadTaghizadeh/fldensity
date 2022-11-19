@@ -1,10 +1,10 @@
-Package: ldensity
+Package: sdensity
 Type: Package
 Title: to help illustrating statistical distributions and comparing them. 
 Version: 0.1.0
 Author: Mohammad Taghizadeh
 Maintainer: The package maintainer <mtaghizadeh@alumni.ut.ac.ir>
-Description: This package has been developed to visualize comparing statistical distributions. .
+Description: This package has been developed to visualize comparing statistical distributions.
     Use four spaces when indenting paragraphs within the Description.
 License: None
 Encoding: UTF-8
