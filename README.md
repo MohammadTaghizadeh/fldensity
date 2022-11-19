@@ -1,10 +1,10 @@
-# ldensity
-ldensity
+# sdensity
+sdensity
 
 This package is for illustrating statistical distributions in a comparison form.
 
 To install the package, try:
-devtools::install_github("MohammadTaghizadeh/ldensity@master")  
+devtools::install_github("MohammadTaghizadeh/sdensity")  
 
 This project beggins recently, therefore, it will go under some changes in the future. 
 
