@@ -1,20 +1,6 @@
-# Hello, world!
-#
-# This is an example function named 'hello'
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
 
 sdens <- function(a, b, c, d, e, f){
-lab <- c(rep('A', 100), rep('B', 100), rep('C', 100))
+lab <- c(rep('Norm A', 100), rep('Norm B', 100), rep('Norm C', 100))
 data <- c(rnorm(100, a, b), rnorm(100, c, d), rnorm(100, e, f))
 df <- data.frame(A = lab, B = data)
 
